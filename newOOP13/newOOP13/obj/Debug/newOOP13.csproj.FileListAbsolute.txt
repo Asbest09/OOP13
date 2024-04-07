@@ -1,0 +1,7 @@
+C:\Users\Sonic\source\repos\newOOP13\newOOP13\bin\Debug\newOOP13.exe.config
+C:\Users\Sonic\source\repos\newOOP13\newOOP13\bin\Debug\newOOP13.exe
+C:\Users\Sonic\source\repos\newOOP13\newOOP13\bin\Debug\newOOP13.pdb
+C:\Users\Sonic\source\repos\newOOP13\newOOP13\obj\Debug\newOOP13.csproj.AssemblyReference.cache
+C:\Users\Sonic\source\repos\newOOP13\newOOP13\obj\Debug\newOOP13.csproj.CoreCompileInputs.cache
+C:\Users\Sonic\source\repos\newOOP13\newOOP13\obj\Debug\newOOP13.exe
+C:\Users\Sonic\source\repos\newOOP13\newOOP13\obj\Debug\newOOP13.pdb
