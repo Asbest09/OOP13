@@ -1,7 +1,0 @@
-C:\Users\Иван PC\source\repos\OOP13\OOP13\bin\Debug\OOP13.exe.config
-C:\Users\Иван PC\source\repos\OOP13\OOP13\bin\Debug\OOP13.exe
-C:\Users\Иван PC\source\repos\OOP13\OOP13\bin\Debug\OOP13.pdb
-C:\Users\Иван PC\source\repos\OOP13\OOP13\obj\Debug\OOP13.csproj.AssemblyReference.cache
-C:\Users\Иван PC\source\repos\OOP13\OOP13\obj\Debug\OOP13.csproj.CoreCompileInputs.cache
-C:\Users\Иван PC\source\repos\OOP13\OOP13\obj\Debug\OOP13.exe
-C:\Users\Иван PC\source\repos\OOP13\OOP13\obj\Debug\OOP13.pdb
